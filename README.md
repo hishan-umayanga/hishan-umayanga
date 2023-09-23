@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://lk.linkedin.com/in/hishan-umayanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://lk.linkedin.com/in/hishan-umayanga" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/hishan-umayanga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://lk.linkedin.com/in/hishan-umayanga" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,16 +23,12 @@
 
 
 
-
+<div>
 <h2 style="color: #44AEFB">📊 Statistics</h2>
-
-
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=hishan-umayanga&count_private=true&theme=algolia&border_radius=20)
 
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hishan-umayanga&show_icons=true&theme=algolia&border_radius=20) -->
-    
 <!-- compact programming languages layout -->
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hishan-umayanga&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 
@@ -55,12 +51,6 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ayushparikh-code}/count.svg" /></p> 
 <br></div>
 
-
-
-
-<div>
-<img src="https://raw.githubusercontent.com/hishan-umayanga/hishan-umayanga/output/snake.svg" alt="Snake animation" />
-</div>
 
 
 
