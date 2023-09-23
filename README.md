@@ -38,7 +38,11 @@
 
 </div>
 <!--  End Stats Cards -->
-
+<div align="center">
+	<br>
+		<img src="good-times.svg" width="400px">
+	<br>
+</div>
 
 <div align="center">
   
